@@ -25,7 +25,7 @@ function firstQuestion(){
         imageUrl: 'img/hi.jpg',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("img/oh.jpg")',
+        background: '#fff url("img/input-bg.jpg")',
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
@@ -46,7 +46,7 @@ function firstQuestion(){
     $('#yes').css("left", leftNo);
     $('#yes').css("top", topNO);
 }
-// move random button póition
+// move random button position
 function moveButton() {
     var audio = new Audio('sound/Swish1.mp3');
     audio.play();
@@ -104,7 +104,7 @@ $('#yes').click(function() {
         width: 900,
         padding: '3em',
         html: "<input type='text' class='form-control' id='txtReason' onmousemove=textGenerate()  placeholder='Okkii'>",
-        background: '#fff url("img/oh.jpg")',
+        background: '#fff url("img/input-bg.jpg")',
         backdrop: `
               rgba(0,0,123,0.4)
               url("img/giphy2.gif")
@@ -119,7 +119,7 @@ $('#yes').click(function() {
             Swal.fire({
                 width: 900,
                 confirmButtonText: CONFIG.btnAccept,
-                background: '#fff url("ohoh.jpg")',
+                background: '#fff url("input-bg.jpg")',
                 title: CONFIG.mess,
                 text: CONFIG.messDesc,
                 confirmButtonColor: '#83d0c9',
