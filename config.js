@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Noooooo <33333333',
     mess: 'Bạn đã bị lừa :v',
     messDesc: 'Hmmmm <3 .',
-    btnAccept: 'inbox để lì xì <3',
+    btnAccept: 'inbox để lì xì  <3',
     messLink: 'https://www.facebook.com/vuanh.psyduck'
 }
