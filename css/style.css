@@ -2,6 +2,9 @@
     position: relative;
     z-index: 3;
   }
+html {
+	font-family: Arial, Helvetica, sans-serif;
+}
   #no{
     position: absolute;
     display: inline-block;
