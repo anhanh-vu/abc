@@ -14,7 +14,4 @@ const CONFIG = {
     messDesc: 'Hmmmm🤭🤭🤭 <3 .',
     btnAccept: 'inbox để cho kẹo mình😆 ',
     messLink: 'https://www.facebook.com/vuuaannh'
-    messDesc: 'Hmmmm <3 .',
-    btnAccept: 'inbox để lì xì  <3',
-    messLink: 'https://www.facebook.com/vuanh.psyduck'
 }
