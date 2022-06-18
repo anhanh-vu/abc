@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Không cho thì sao!!!',
     question:'Tết nhớ lì xì :-P!!!',
     btnReply: 'Okeeee <3',
-    reply: 'Noooooo <33333333',
+    reply: 'okeeee lunnnn <33333333',
     mess: 'Bạn đã bị lừa :v',
 <<<<<<< HEAD
     messDesc: 'Hmmmm🤭🤭🤭 <3 .',
